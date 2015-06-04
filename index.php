@@ -1,6 +1,6 @@
 <?php
-  require_once('/var/www/omnicha.in/theme/safe/header.php');
-  require_once('/var/www/omnicha.in/theme/safe/footer.php');
+  require_once('inc/header.php');
+  require_once('inc/footer.php');
   
   get_header("Home"); 
 ?>
