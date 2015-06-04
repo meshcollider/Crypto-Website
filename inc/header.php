@@ -12,11 +12,13 @@ function get_header($title = null) {
 			<title><?php echo $title; ?> - Crypto Group</title>
 			
 			<link href="../css/style.css" rel="stylesheet">
-
+			<link href="../css/bootstrap.min.css" rel="stylesheet">
+			
 			<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
 			<link rel="icon" href="../favicon.ico" type="image/x-icon">
 			
 			<script src="../js/script.js"></script>
+			<script src="/theme/js/bootstrap.min.js"></script>
 		</head>
 		<body>
 			<div class="navbar navbar-inverse navbar-top">
